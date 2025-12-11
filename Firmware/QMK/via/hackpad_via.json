@@ -1,0 +1,20 @@
+{
+  "keyboard": "hackpad",
+  "displayName": "Hackpad",
+  "vendorId": "0xFEED",
+  "productId": "0x0001",
+  "lighting": {
+    "ledCount": 10
+  },
+  "matrix": {
+    "rows": 4,
+    "cols": 2
+  },
+  "layouts": {
+    "keymap": {
+      "layout": [
+        "LAYOUT"
+      ]
+    }
+  }
+}

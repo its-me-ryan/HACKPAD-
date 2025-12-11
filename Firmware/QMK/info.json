@@ -1,0 +1,21 @@
+{
+  "name": "hackpad",
+  "maintainer": "ryan",
+  "url": "",
+  "vendorId": "0xFEED",
+  "productId": "0x0001",
+  "deviceVer": "0x0001",
+  "manufacturer": "Ryan",
+  "product": "Hackpad",
+  "matrix": {
+    "rows": 4,
+    "cols": 2
+  },
+  "layouts": {
+    "keymap": {
+      "hackpad": [
+        "LAYOUT"
+      ]
+    }
+  }
+}

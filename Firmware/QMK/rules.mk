@@ -1,0 +1,6 @@
+MCU = RP2040
+F_CPU = 125000000
+
+# Enable features
+RGBLIGHT_ENABLE = yes
+ENCODER_ENABLE = yes
