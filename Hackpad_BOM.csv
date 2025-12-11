@@ -1,0 +1,15 @@
+BOM for Custom Hackpad
+
+Item,Description,Quantity,Notes
+XIAO RP2040,Microcontroller board,1,Main MCU
+MX-style switches,Mechanical keyswitches,8,Plate-mount
+1N4148 diodes,Signal diodes,8,For key matrix
+SK6812-MINI-E,Addressable RGB LEDs,10,Underglow + indicators
+EC11 Rotary Encoder,Incremental encoder with pushbutton,2,Volume/scroll etc.
+Resistor 4.7kΩ,Pull-up resistors,2,For encoder
+0.1uF capacitor,Decoupling capacitor,1,Optional but recommended
+1uF capacitor,Bulk capacitor,1,Optional
+M3 Screws,Assembly screws,4,For case mounting
+Heat-set inserts,M3 brass inserts,4,Case assembly
+Custom PCB,Designed in KiCad,1,2-layer
+3D printed case,Top + bottom,1,Fusion 360 model
