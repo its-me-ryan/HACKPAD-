@@ -28,11 +28,11 @@ And yes — it looks awesome. 😎
 # CAD Model
 
 The enclosure is split into two printed parts:
-Bottom shell — supports the PCB and holds heat-set inserts.
-Top plate — holds the switches and encoders in perfect alignment.
-Everything assembles using M2 screws and heat-set inserts.
-The entire case was modeled in Fusion 360, with careful tolerances for switch fitment and encoder height.
-The PCB was imported into Fusion to ensure perfect alignment between the switch cutouts, encoder holes, and standoffs.
+- Bottom shell (supports the PCB and holds heat-set inserts.)
+- Top plate (holds the switches and encoders in perfect alignment)
+- Everything assembles using M2 screws and heat-set inserts.
+- The entire case was modeled in Fusion 360, with careful tolerances for switch fitment and encoder height.
+- The PCB was imported into Fusion to ensure perfect alignment between the switch cutouts, encoder holes, and standoffs.
 
 # PCB
 Here’s the PCB!
